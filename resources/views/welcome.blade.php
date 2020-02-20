@@ -18,8 +18,6 @@
             <sample2-component></sample2-component>
             <sample2-component></sample2-component>
             <example-component test="laravelからvueへ受けわたし"><example-component/>
-            <sample2-component></sample2-component>
-            <sample2-component></sample2-component>
             </v-app>
         </div>
         <script src="{{asset('js/app.js')}}"></script>
